@@ -1,0 +1,5 @@
+[08-Oct-2024 17:45:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'sakshi' for key 'PRIMARY' in C:\xampp\htdocs\MINI_PROJECT\profile.php:57
+Stack trace:
+#0 C:\xampp\htdocs\MINI_PROJECT\profile.php(57): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in C:\xampp\htdocs\MINI_PROJECT\profile.php on line 57
