@@ -11,6 +11,9 @@ Craftogram is a web application where local artisans and craft lovers can showca
 - ❤️ Like and 💬 comment system (no login required)
 - 🧵 Category-wise filtering (Pottery, Painting, Textile, etc.)
 - 🎨 Responsive UI for desktop and mobile
+- 📅 **Event Page** to showcase ongoing/upcoming art & craft events
+  - 🎟️ Users can **book tickets** for events
+  - ✍️ Users can **create their own events** and share details with others
 
 ---
 
